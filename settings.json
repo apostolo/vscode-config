@@ -1,0 +1,21 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "editor.minimap.enabled": true,
+    "editor.wordWrap": "on",
+    "editor.fontLigatures": true,
+    "window.zoomLevel": -1,
+    "git.autofetch": true,
+    "git.autorefresh": true,
+    "editor.suggestSelection": "first",
+    "workbench.tree.renderIndentGuides": "none",
+    "editor.tabSize": 2,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "editor.formatOnPaste": true,
+    "editor.rulers": [80, 120],
+    "editor.renderLineHighlight": "gutter"
+}
