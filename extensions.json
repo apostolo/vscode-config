@@ -1,0 +1,112 @@
+[
+  {
+    "metadata": {
+      "id": "8a0c151b-eb13-4bed-9d49-4a252a118a0c",
+      "publisherId": "michelemelluso.code-beautifier",
+      "publisherDisplayName": "michelemelluso"
+    },
+    "name": "code-beautifier",
+    "publisher": "michelemelluso",
+    "version": "2.3.3"
+  },
+  {
+    "metadata": {
+      "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
+    },
+    "name": "code-settings-sync",
+    "publisher": "Shan",
+    "version": "3.4.3"
+  },
+  {
+    "metadata": {
+      "id": "d0bfc4ab-1d3a-4487-8782-7cf6027b4fff",
+      "publisherId": "ms-dotnettools.csharp",
+      "publisherDisplayName": "ms-dotnettools"
+    },
+    "name": "csharp",
+    "publisher": "ms-dotnettools",
+    "version": "1.22.0"
+  },
+  {
+    "metadata": {
+      "id": "1ec62ca5-d7f9-4ddb-a882-e8d018c0aefd",
+      "publisherId": "msjsdiag.debugger-for-chrome",
+      "publisherDisplayName": "msjsdiag"
+    },
+    "name": "debugger-for-chrome",
+    "publisher": "msjsdiag",
+    "version": "4.12.8"
+  },
+  {
+    "metadata": {
+      "id": "19804510-b475-4dae-b0f7-6ca08fd1af0c",
+      "publisherId": "dsznajder.es7-react-js-snippets",
+      "publisherDisplayName": "dsznajder"
+    },
+    "name": "es7-react-js-snippets",
+    "publisher": "dsznajder",
+    "version": "2.7.1"
+  },
+  {
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "eamodio.gitlens",
+      "publisherDisplayName": "eamodio"
+    },
+    "name": "gitlens",
+    "publisher": "eamodio",
+    "version": "10.2.1"
+  },
+  {
+    "metadata": {
+      "id": "b63c44fd-0457-4696-99e9-dbfdf70d77de",
+      "publisherId": "ritwickdey.LiveServer",
+      "publisherDisplayName": "ritwickdey"
+    },
+    "name": "LiveServer",
+    "publisher": "ritwickdey",
+    "version": "5.6.1"
+  },
+  {
+    "metadata": {
+      "id": "4bf45e86-a448-4531-8c01-ef33f4536306",
+      "publisherId": "ms-mssql.mssql",
+      "publisherDisplayName": "ms-mssql"
+    },
+    "name": "mssql",
+    "publisher": "ms-mssql",
+    "version": "1.9.0"
+  },
+  {
+    "metadata": {
+      "id": "f0c5397b-d357-4197-99f0-cb4202f22818",
+      "publisherId": "ms-vscode-remote.remote-wsl",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-wsl",
+    "publisher": "ms-vscode-remote",
+    "version": "0.44.2"
+  },
+  {
+    "metadata": {
+      "id": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0",
+      "publisherId": "bmewburn.vscode-intelephense-client",
+      "publisherDisplayName": "bmewburn"
+    },
+    "name": "vscode-intelephense-client",
+    "publisher": "bmewburn",
+    "version": "1.4.0"
+  },
+  {
+    "metadata": {
+      "id": "beb68b20-7c55-471c-9b63-3486f9423566",
+      "publisherId": "mrmlnc.vscode-scss",
+      "publisherDisplayName": "mrmlnc"
+    },
+    "name": "vscode-scss",
+    "publisher": "mrmlnc",
+    "version": "0.9.0"
+  }
+]
